@@ -1,0 +1,1 @@
+var json_Pansimas_11 = {"type":"FeatureCollection","name":"Pansimas_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Pansimas":"Pansimas"},"geometry":{"type":"Point","coordinates":[101.587328500046979,-0.450495748718856]}}]}
